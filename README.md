@@ -55,3 +55,7 @@ void loop() {
 - Si el botón no funciona correctamente, verifica la resistencia pull-down (10kΩ).
 - Puedes cambiar los retardos (`delay(200)`) para modificar la velocidad del parpadeo.
 
+![imagen](https://github.com/user-attachments/assets/32f6659b-8a97-44c7-b05a-d5b37e68dd5e)
+
+![imagen](https://github.com/user-attachments/assets/2645c522-7030-4c13-a4eb-e7ee1249eb24)
+
